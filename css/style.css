@@ -3,9 +3,6 @@
     margin:0
 }
 
-  
-
-  
 .moqups{
     font-size: 20px;
     font-family: 'Lobster', cursive;
@@ -15,7 +12,8 @@
    
     padding-top: 10px;
     color: rgb(93, 124, 136);
-    
+
+    background: #ecf1f5 url("../IMG/placeholder.jpg") no-repeat center / contain;
 }
 
 /* #jumbotron {
